@@ -1,0 +1,8 @@
+print ("Hello, How are you?")
+print ("I am learning Python language.")
+print ("abhi")
+print ("raj")
+print ("python")
+print ("html")
+print ("css")
+print ("java")
